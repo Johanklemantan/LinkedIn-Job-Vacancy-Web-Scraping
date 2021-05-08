@@ -25,7 +25,7 @@ Step processing :
 How to run this :
 1. Install Selenium library from cmd prompt type '-pip install Selenium'
 2. Download Chrome from <a href='https://chromedriver.chromium.org/'>here</a>. Make sure to download the version that match your browser
-3. Run the JupyterLab code. The explanation each step included inside (in Bahasa)
+3. Run the Jupyter ipynb file. See the #The explanation each step included inside (in Bahasa) 
 4. Input your LinkedIn username and password
 5. Enter the keyword that you want to search 
 6. You will find output as csv file included the item in no (3) at step processing
